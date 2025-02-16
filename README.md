@@ -1,6 +1,6 @@
-# Employee Management System (GraphQL API)
+# Employee Management System 
 
-## 📌 Project Overview
+## 📌 Assignment 1 Overview
 This project is a **GraphQL-based Employee Management System** backend developed using **Node.js, Express, GraphQL, and MongoDB**. It supports user authentication, employee management, and querying employee data.
 
 ## 🚀 Features
